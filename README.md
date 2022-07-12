@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rami Sorikh, a full stack developer
 - 👀 @ramiware is simply a representation of what I create
-- 📫 http://ramiware.com
-- 📫 support@ramiware.com
+- 🌐 ramiware.com
+- 📫 ramisorikh@ramiware.com
 
 <!---
 ramiware/ramiware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
